@@ -1,0 +1,27 @@
+_repo: The-Thought-Men-of-Mercury_62199
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Winterbotham, R. R. (Russell Robert)
+    aliases:
+    - Winterbotham, R.R.
+    - Winterbotham, Russell Robert
+    - Winterbotham, Russ
+    birthdate: 1904
+    deathdate: 1971
+    gutenberg_agent_id: '25195'
+    url: http://www.gutenberg.org/2009/agents/25195
+    wikipedia: https://en.wikipedia.org/wiki/Russell_R._Winterbotham
+description: ''
+gutenberg_issued: '2020-05-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62199'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Thought-Men of Mercury
+url: http://www.gutenberg.org/ebooks/62199
